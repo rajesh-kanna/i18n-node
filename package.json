@@ -18,12 +18,12 @@
     "lib": "."
   },
   "dependencies": {
-    "debug": "*",
-    "make-plural": "^3.0.3",
-    "math-interval-parser": "^1.1.0",
-    "messageformat": "^0.3.1",
-    "mustache": "*",
-    "sprintf-js": ">=1.0.3"
+    "debug": "3.1.0",
+    "make-plural": "3.0.6",
+    "math-interval-parser": "1.1.0",
+    "messageformat": "0.3.1",
+    "mustache": "2.3.0",
+    "sprintf-js": "1.1.1"
   },
   "devDependencies": {
     "async": "*",
